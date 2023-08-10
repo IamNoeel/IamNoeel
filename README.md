@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamNoeel
 - 👀 I’m interested in Data and Analytics
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jordi.iamnoeel@gmail.com
 
